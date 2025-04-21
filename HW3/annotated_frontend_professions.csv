@@ -1,0 +1,317 @@
+title,relevant,annotator_relevant
+Costume Designer,0,0.0
+Frontend Engineer,1,1.0
+HTML5 Game Developer,1,1.0
+Progressive Web App Developer,1,1.0
+Frontend QA Engineer,1,1.0
+Frontend Code Auditor,1,1.0
+Frontend Troubleshooter,1,1.0
+UX Researcher,0,1.0
+Welder,0,0.0
+UI Implementation Engineer,1,0.0
+Web UI Architect,1,1.0
+Construction Manager,0,0.0
+Yoga Instructor,0,0.0
+Non-Profit Director,0,0.0
+Comedian,0,0.0
+Set Designer,0,0.0
+Web Developer,1,1.0
+Middleware Engineer,0,0.0
+Architect,0,0.0
+Optical Engineer,0,0.0
+Frontend Coding Instructor,1,1.0
+System Administrator,0,0.0
+Linux Administrator,0,0.0
+Logistics Manager,0,0.0
+Web UI Developer,1,1.0
+Illustrator,0,0.0
+iOS Developer,0,0.0
+Frontend Tools Engineer,1,1.0
+Interpreter,0,0.0
+Factory Worker,0,0.0
+Data Analyst,0,0.0
+Angular Developer,1,0.0
+UX Implementation Specialist,1,1.0
+Miner,0,0.0
+Frontend Code Integrator,1,1.0
+QA Engineer,0,0.0
+Frontend Build Engineer,1,1.0
+Frontend Web Developer,1,1.0
+Financial Analyst,0,0.0
+Unity Developer,0,1.0
+Static Site Generator Developer,1,0.0
+Interaction Designer,1,1.0
+VFX Artist,0,0.0
+Plumber,0,0.0
+Nutritionist,0,0.0
+Accountant,0,0.0
+Museum Curator,0,0.0
+HTML Developer,1,1.0
+Voice Actor,0,0.0
+Frontend Dev Advocate,1,1.0
+Android Developer,0,0.0
+Train Conductor,0,0.0
+Hadoop Developer,0,0.0
+Responsive Interface Developer,1,1.0
+Compositing Artist,0,0.0
+Waiter,0,0.0
+Career Counselor,0,0.0
+Auditor,0,0.0
+Compliance Officer,0,0.0
+Quality Assurance Officer,0,0.0
+Kindergarten Teacher,0,0.0
+Electronics Engineer,0,0.0
+Computer Vision Engineer,0,0.0
+BI Developer,0,0.0
+Bus Mechanic,0,0.0
+Cleaner,0,0.0
+Insurance Agent,0,0.0
+Web Usability Engineer,1,1.0
+Kubernetes Administrator,0,0.0
+Web Project Integrator,1,1.0
+Game Developer,0,0.0
+UI Developer,1,1.0
+Storyboard Artist,0,0.0
+HTML Email Developer,1,1.0
+UI Specialist,1,1.0
+Politician,0,0.0
+Web Components Developer,1,1.0
+Docker Expert,0,0.0
+Oracle DBA,0,0.0
+Warehouse Manager,0,0.0
+Journalist,0,0.0
+Sales Manager,0,0.0
+Big Data Engineer,0,0.0
+Biomedical Engineer,0,0.0
+React UI Architect,1,1.0
+School Teacher,0,0.0
+CSS Grid/Flexbox Specialist,1,1.0
+IT Support Specialist,0,0.0
+Graphic Designer,0,0.0
+Dispatcher,0,0.0
+Website Developer,1,1.0
+Spark Engineer,0,0.0
+UI Tester,1,1.0
+Therapist,0,0.0
+Stage Manager,0,0.0
+UI Quality Analyst,1,1.0
+Web Applications Developer,1,1.0
+Frontend Architect,1,1.0
+Philosopher,0,0.0
+Flight Attendant,0,0.0
+ML Engineer,0,0.0
+DOM Manipulation Engineer,1,1.0
+Sailor,0,0.0
+Component Library Developer,1,1.0
+Frontend Software Engineer,1,1.0
+Frontend R&D Engineer,1,1.0
+Platform Engineer,0,0.0
+News Anchor,0,0.0
+Interactive UI Designer,1,1.0
+Embedded Systems Engineer,0,0.0
+Frontend Workflow Engineer,1,1.0
+React Native Developer,1,1.0
+Art Director,0,0.0
+Hardware Engineer,0,0.0
+Pilot,0,0.0
+AI Researcher,0,0.0
+Email Template Developer,1,0.0
+Farmer,0,0.0
+Data Scientist,0,0.0
+Database Administrator,0,0.0
+ERP Consultant,0,0.0
+CSS Utility Engineer,1,1.0
+Oil Rig Worker,0,0.0
+Site Reliability Engineer,0,0.0
+NLP Engineer,0,0.0
+Firefighter,0,0.0
+Customer Support Agent,0,0.0
+Social Worker,0,0.0
+Language Teacher,0,0.0
+3D Artist,0,0.0
+Recruiter,0,0.0
+Chemist,0,0.0
+Translator,0,0.0
+Full Stack Developer,0,1.0
+Browser Compatibility Engineer,1,1.0
+Auto Mechanic,0,0.0
+Character Designer,0,1.0
+ETL Developer,0,0.0
+Firmware Engineer,0,0.0
+Concept Artist,0,0.0
+Technical Writer,0,0.0
+Magician,0,0.0
+Radio Host,0,0.0
+Locksmith,0,0.0
+Market Analyst,0,0.0
+Bartender,0,0.0
+Vue Developer,1,1.0
+Mobile App Developer,0,0.0
+Legal Advisor,0,0.0
+Marketing Specialist,0,0.0
+Unreal Engine Developer,0,0.0
+Professor,0,0.0
+Diplomat,0,0.0
+AR Developer,0,0.0
+UI Template Developer,1,1.0
+Responsive Design Developer,1,1.0
+Browser-Based App Developer,1,1.0
+Landscaper,0,0.0
+Data Engineer,0,0.0
+Lighting Technician,0,0.0
+Urban Planner,0,0.0
+IT Consultant,0,0.0
+Air Traffic Controller,0,0.0
+Hotel Manager,0,0.0
+React UI Developer,1,1.0
+Procurement Officer,0,0.0
+HTML Email Specialist,1,1.0
+Librarian,0,0.0
+Electrical Engineer,0,0.0
+HTML/CSS Developer,1,1.0
+Web Standards Specialist,1,1.0
+Frontend Performance Engineer,1,1.0
+Video Editor,0,0.0
+PostgreSQL Admin,0,0.0
+Crane Operator,0,0.0
+Salesforce Developer,0,0.0
+Lighting Artist,0,0.0
+Design to Code Engineer,1,1.0
+DevOps Engineer,0,0.0
+Biologist,0,0.0
+Motion Graphics Artist,0,0.0
+Baker,0,0.0
+WebGL Developer,1,1.0
+UI Test Automation Developer,1,1.0
+Receptionist,0,0.0
+Infrastructure Engineer,0,0.0
+Creative Developer,1,0.0
+Event Manager,0,0.0
+MySQL Expert,0,0.0
+Health & Safety Inspector,0,0.0
+Frontend Developer,1,1.0
+Economist,0,0.0
+Actor,0,0.0
+Scrum Master,0,0.0
+HR Specialist,0,0.0
+Lawyer,0,0.0
+Business Analyst,0,0.0
+Photographer,0,0.0
+Product Manager,0,0.0
+SPAs Developer,1,0.0
+Frontend Mentor,1,1.0
+Release Manager,0,0.0
+Courier,0,0.0
+Medical Assistant,0,0.0
+Forklift Operator,0,0.0
+UI/UX Designer,1,1.0
+Volunteer Coordinator,0,0.0
+Investment Analyst,0,0.0
+Sociologist,0,0.0
+Interface Developer,1,1.0
+Chef,0,0.0
+JavaScript Developer,1,1.0
+Smart Contract Engineer,0,0.0
+Design System Engineer,1,1.0
+Physicist,0,0.0
+Structural Engineer,0,0.0
+Mathematician,0,0.0
+Musician,0,0.0
+Windows System Engineer,0,0.0
+Browser Extension Developer,1,0.0
+Doctor,0,0.0
+Cybersecurity Engineer,0,0.0
+VR Developer,0,0.0
+Coach,0,0.0
+CSS Developer,1,1.0
+JavaScript UI Developer,1,1.0
+Archivist,0,0.0
+Web Layout Developer,1,1.0
+Webpack Configurator,1,0.0
+Truck Driver,0,0.0
+Integration Engineer,0,0.0
+JAMstack Developer,1,0.0
+Robotics Engineer,0,0.0
+Dancer,0,0.0
+Pharmacist,0,0.0
+Support Engineer,0,0.0
+Accessibility Engineer,1,0.0
+Military Officer,0,0.0
+Cloud Architect,0,0.0
+Vue UI Developer,1,1.0
+Driver,0,0.0
+Supply Chain Analyst,0,0.0
+Laboratory Technician,0,0.0
+CSS-in-JS Developer,1,1.0
+Machinist,0,0.0
+Life Coach,0,0.0
+Judge,0,0.0
+Tax Consultant,0,0.0
+Web Interface Developer,1,1.0
+Frontend Code Reviewer,1,1.0
+Backend Developer,0,0.0
+Astronomer,0,0.0
+Tour Guide,0,0.0
+Singer,0,0.0
+Bank Clerk,0,0.0
+Civil Engineer,0,0.0
+Headless CMS Integrator,1,0.0
+Veterinarian,0,0.0
+Copywriter,0,0.0
+Fisherman,0,0.0
+Network Engineer,0,0.0
+User Interface Developer,1,1.0
+React Developer,1,1.0
+JS Frameworks Integrator,1,1.0
+Design Integrator,1,0.0
+Call Center Operator,0,0.0
+Web Animation Developer,1,1.0
+Police Officer,0,0.0
+UI Microinteractions Developer,1,1.0
+UI Prototype Developer,1,1.0
+Paramedic,0,0.0
+Electrician,0,0.0
+Web Designer,1,1.0
+Frontend Accessibility Engineer,1,1.0
+Historian,0,0.0
+HVAC Specialist,0,0.0
+Wedding Planner,0,0.0
+Penetration Tester,0,0.0
+Personal Trainer,0,0.0
+Carpenter,0,0.0
+Web Accessibility Tester,1,1.0
+CSS Frameworks Expert,1,1.0
+Animator,0,0.0
+Content Writer,0,0.0
+Environmental Scientist,0,0.0
+SEO Analyst,0,0.0
+Sound Engineer,0,0.0
+Frontend Consultant,1,1.0
+Web UI Tester,1,1.0
+Security Guard,0,0.0
+Assembly Line Operator,0,0.0
+Mobile Web Developer,1,0.0
+Mechanical Engineer,0,0.0
+Psychologist,0,0.0
+PR Manager,0,0.0
+Sound Technician,0,0.0
+Gardener,0,0.0
+Jenkins Pipeline Engineer,0,0.0
+SAP Consultant,0,0.0
+Configuration Manager,0,0.0
+Project Manager,0,0.0
+Web Typography Specialist,1,1.0
+Nurse,0,0.0
+Blockchain Developer,0,0.0
+Climate Analyst,0,0.0
+Cross-platform Web Developer,1,0.0
+SMM Specialist,0,0.0
+Single Page App Engineer,1,0.0
+Security Analyst,0,0.0
+Soldier,0,0.0
+Test Automation Engineer,0,0.0
+(Test Case) Frontend Developer,1,1.0
+(Test Case) Backend Developer,0,0.0
+(Test Case) Web Developer,1,1.0
+(Test Case) Plumber,0,0.0
+(Test Case) JavaScript Developer,1,1.0
